@@ -8,13 +8,7 @@
 
 - 🌱 I’m currently learning **Algorithms and JavaScript via School, Codecademy, and freeCodeCamp**
 
-- 👯 I’m looking to collaborate on [N/A](N/A)
-
-- 🤝 I’m looking for help with [N/A](N/A)
-
 - 👨‍💻 All of my projects are available at [N/A (In development)](N/A (In development))
-
-- 📝 I regularly write articles on [N/A](N/A)
 
 - 📫 How to reach me **maximailin1@gmail.com**
 
