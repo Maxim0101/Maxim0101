@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" style="border:5px solid #00FF00; padding:3px; margin:5px">
 
 <h2> Hey there! I'm Maxim.</h2>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/maxim0101">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxim0101&theme=buefy&show_icons=true" />
   
 </a>
@@ -36,6 +36,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="[[https://www.linkedin.com/in/AVS1508/](https://www.linkedin.com/in/maxim-ilin-958825232/)](https://www.linkedin.com/in/maxim-ilin-958825232/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maxim%20Alexander%20Ilin-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/maxim-ilin-958825232"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maxim%20Alexander%20Ilin-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:maximailin1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maximailin1@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
