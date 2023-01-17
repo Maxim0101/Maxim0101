@@ -1,28 +1,41 @@
-<h1 align="center">Hi 👋, I'm Maxim Ilin</h1>
-<h3 align="center">A passionate High-School programmer.</h3>
-<img align=“right” alt=“Coding” width="400" src=“https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp”>
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxim0101&label=Profile%20views&color=0e75b6&style=flat" alt="maxim0101" /> </p>
+<h2> Hey there! I'm Maxim.</h2>
 
-- 🔭 I’m currently working on [N/A (TBD)](N/A (In development))
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 I’m currently learning **Algorithms and JavaScript via School, Codecademy, and freeCodeCamp**
+- 🤔 &nbsp; Exploring JavaScript, HTML, CSS, and Python.
+- 🎓 &nbsp; Studying Computer Science at Wall High School as well as independently through sources such as freeCodeCammp.
+- 💼 &nbsp; In search of a software or web development internship.
+- 🌱 &nbsp; Learning more about how to integrate HTML, CSS, and JavaScript together.
+- ✍️ &nbsp; Likely pursuing Data Science as well as a Business degree.
 
-- 👨‍💻 All of my projects are available at [N/A (In development)](N/A (In development))
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 📫 How to reach me **maximailin1@gmail.com**
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- ⚙️ &nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-- 📄 Know about my experiences [N/A (In development)](N/A (In development))
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxim0101&theme=buefy&show_icons=true" />
+  
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="[[https://www.linkedin.com/in/AVS1508/](https://www.linkedin.com/in/maxim-ilin-958825232/)](https://www.linkedin.com/in/maxim-ilin-958825232/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maxim%20Alexander%20Ilin-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:maximailin1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maximailin1@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxim0101&show_icons=true&locale=en&layout=compact" alt="maxim0101" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxim0101&show_icons=true&locale=en" alt="maxim0101" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxim0101&" alt="maxim0101" /></p>
