@@ -36,7 +36,7 @@
 - [CodingBat](https://codingbat.com/) (Coding & Critical Thinking Practice)
 - [YouTube](https://www.youtube.com/) (Projects and Calculus Lessons)
 
-## 📈 GitHub Projects
+## 📈 Projects
 
 Currently in the process of bringing my files and work to GitHub.
 
