@@ -44,4 +44,4 @@ Currently in the process of bringing my files and work to GitHub.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maxim-ilin-196442277/)
 [![Resume](https://img.shields.io/badge/-Resume-333333?style=flat&logo=Google-Drive&logoColor=white)](https://docs.google.com/document/d/1y1Wna3Vs-x17wZ5KBbf25eHt4PZ1Kas9BtNcTJ8sOCQ/edit?tab=t.0)
-[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=Gmail&logoColor=white)](mailto:maximailin1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-maximailin1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maximailin1@gmail.com)
