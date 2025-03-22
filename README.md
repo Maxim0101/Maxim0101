@@ -72,52 +72,43 @@ Below is a mix of work-in-progress and completed projects.
 
 ### 🚧 Work-in-Progress
 
-[**MAI**](FUTURE_LINK_TO_REPO)  
+[**MAI**](https://github.com/Maxim0101/MAI)
 - My first AI model 
 
-[**MAI Voice Assistant**](FUTURE_LINK_TO_REPO)  
+[**MAI Voice Assistant**](https://github.com/Maxim0101/MAI-voice-assistant)
 - A personalized voice assistant buddy that has many features current voice assistants lack and can examine the environment it is in to make it feel like it's really there with you
 
-[**MoneyWise**](FUTURE_LINK_TO_REPO)  
+[**MoneyWise**](https://github.com/Maxim0101/moneywise)
 - An app that is dedicated to helping people to learn how to become financially independent and find a supporting community sith similar financial struggles
 
-[**NU App - Name TBD**](FUTURE_LINK_TO_REPO)  
+[**NU App - Name TBD**](https://github.com/Maxim0101/nu-app-name-TBD)
 - An app that organizes club communication on campus, streamlines club processes, and makes it easier for students to filter and find the right club for them
 
-[**Snake Game**](FUTURE_LINK_TO_REPO)  
+[**Snake Game**](https://github.com/Maxim0101/snake-game)
 - I recreated the original Snake Game that I once played on an old Nokia phone in Russia
 
-[**SwarmScape Project**](FUTURE_LINK_TO_REPO)  
+[**SwarmScape Project**](https://github.com/Maxim0101/swarmscape-project)
 - SwarmScape is Northeastern University AI Club's project which is about creating an automated greenhouse that utilizes software, hardware, and AI
 
 ---
 
 ### ✅ Finished Projects
 
-[**KineticsSolver**](FUTURE_LINK_TO_REPO)  
+[**Kinetics Solver**](https://github.com/Maxim0101/kinetics-solver)
 - A simple physics calculator that automatically solves basic kinematics questions
 
-[**CS50 Work**](FUTURE_LINK_TO_REPO)  
+[**CS50 Work**](https://github.com/Maxim0101/cs50-work)
 - CS50 is Harvard University's free online CS program that I took
-
-[**freeCodeCamp Projects**](FUTURE_LINK_TO_REPO)  
-- Any noteworthy freeCodeCamp projects I have done
-
-[**Codecademy Projects**](FUTURE_LINK_TO_REPO)  
-- Any noteworthy codecademy projects I have done
 
 ---
 
 ### 📝 Practice & Learning
 
-[**Euler Practice**](FUTURE_LINK_TO_REPO)  
+[**Euler Practice**](https://github.com/Maxim0101/euler-practice)
 - Euler Practice problems that test my critical thinking and introduce me to new CS or math concepts
 
-[**Algorithms Practice**](FUTURE_LINK_TO_REPO)  
+[**Algorithms Practice**](https://github.com/Maxim0101/algorithms-practice)
 - Algorithms I have learned and implemented in code
-
-[**Northeastern University Class Work**](FUTURE_LINK_TO_REPO)  
-- Computer Science related work I did from different classes
 
 ---
 
