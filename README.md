@@ -12,7 +12,7 @@ Hi, I’m Maxim — a Mechanical Engineering and Computer Science student at Nor
 
 If I had to sum myself up, I’m someone who, when faced with a problem, doesn’t complain or walk away — I lean in. I find a genuine thrill in tackling complex challenges and creating meaningful, long-term solutions.
 
-My fascination with technology began in high school, watching Boston Dynamics' robots in action via YouTube. That curiosity evolved into a passion for how software and engineering shape the future. With AI accelerating rapidly, I am confident robots will one day be as common as smartphones — and I want to help shape that future.
+My fascination with technology began in high school, watching Boston Dynamics' robots in action via YouTube. That curiosity evolved into a passion for learning how software and engineering shape the future. With AI accelerating rapidly, I am confident robots will one day be as common as smartphones — and I want to help shape that future.
 
 Eventually, I hope to launch a robotics company focused on ethical automation — building tools that empower workers rather than replace them. Further down the road, I also dream of starting an engineering-focused philanthropic initiative to help solve real-world problems and support the development of 3rd world states.
 
