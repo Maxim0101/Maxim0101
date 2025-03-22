@@ -12,22 +12,22 @@ Hi, I’m Maxim — a Mechanical Engineering and Computer Science student at Nor
 
 If I had to sum myself up, I’m someone who, when faced with a problem, doesn’t complain or walk away — I lean in. I find a genuine thrill in tackling complex challenges and creating meaningful, long-term solutions.
 
-My fascination with technology began in high school, watching Boston Dynamics' robots in action via YouTube. That curiosity evolved into a passion for learning how software and engineering shape the future. With AI accelerating rapidly, I am confident robots will one day be as common as smartphones — and I want to help shape that future.
+My fascination with technology began in high school, watching Boston Dynamics' robots in action via YouTube. That curiosity evolved into a passion for learning how software and engineering shape the future. With AI accelerating rapidly, I am confident that robots will be as common as smartphones — and I want to help shape that future.
 
 Eventually, I hope to launch a robotics company focused on ethical automation — building tools that empower workers rather than replace them. Further down the road, I also dream of starting an engineering-focused philanthropic initiative to help solve real-world problems and support the development of 3rd world states.
 
-Right now, I’m diving deep into MySQL, Java, and supervised learning, and currently reading:
+I regularly challenge myself with complex problems on Project Euler and supplement my learning through platforms like freeCodeCamp, Codecademy, and YouTube. Right now, I’m diving deeper into MySQL, Java, and supervised learning, and currently reading:
 - The Hundred-Page Machine Learning Book by Andriy Burkov
 - Chip War by Chris Miller
 - Snow Crash by Neal Stephenson
 
 Outside of tech, I enjoy comedy, investing, and exploring thought-provoking shows like Black Mirror.
 
-I’ve worked on a number of fun, entrepreneurial project ideas, and I have hands-on experience in both software and hardware, with a range of tools, languages, and IDEs.
+I have worked on several fun and entrepreneurial projects, including a voice assistant built with OpenAI’s API. I’m currently developing a financial learning app, an app for my college, my first AI, and more. Along the way, I’ve gained hands-on experience across both software and hardware, using tools and IDEs like VS Code, Xcode, DataGrip, and Zsh, and languages like Python, Java, HTML/CSS, JavaScript, and MySQL.
 
 I’m currently seeking my first software engineering internship, where I can apply my skills to real-world projects, learn from industry professionals, and contribute meaningfully to the future of tech.
 
-Let’s connect and see how we can collaborate!
+Let's connect!
 
 ---
 
