@@ -94,7 +94,7 @@ Below is a mix of work-in-progress and completed projects.
 
 ### ✅ Finished Projects
 
-[**Kinetics Solver**](https://github.com/Maxim0101/kinetics-solver)
+[**Kinematics Solver 2.0**](https://github.com/Maxim0101/kinetics-solver)
 - A simple physics calculator that automatically solves basic kinematics questions
 
 [**CS50 Work**](https://github.com/Maxim0101/cs50-work)
