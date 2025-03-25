@@ -14,7 +14,7 @@ If I had to sum myself up, I’m someone who, when faced with a problem, doesn�
 
 My fascination with technology began in high school, watching [Boston Dynamics' robots](https://www.youtube.com/watch?v=fn3KWM1kuAw) in action via YouTube. That curiosity evolved into a passion for learning how software and engineering shape the future. With AI accelerating rapidly, I am confident that robots will be as common as smartphones — and I want to help shape that future.
 
-Eventually, I hope to launch a robotics company focused on ethical automation — building tools that empower workers rather than replace them. Further down the road, I also dream of starting an engineering-focused philanthropic initiative to help solve real-world problems and support the development of 3rd world states.
+Eventually, I will launch a robotics company focused on ethical automation — building tools that empower workers rather than replace them. And further down the road, I will start an engineering-focused philanthropic initiative to help solve real-world problems and support the development of 3rd world states.
 
 I regularly challenge myself with complex problems on Project Euler and supplement my learning through platforms like freeCodeCamp, Codecademy, and YouTube. Right now, I’m diving deeper into MySQL, Java, and supervised learning, and currently reading:
 - The Hundred-Page Machine Learning Book by Andriy Burkov
