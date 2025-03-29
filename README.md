@@ -67,8 +67,7 @@ Let's connect!
 
 ## 🏗️ Projects
 
-Currently in the process of bringing my files and work to GitHub.  
-Below is a mix of work-in-progress and completed projects.
+Below is a mix of **some** of my work-in-progress and completed projects.
 
 ### 🚧 Work-in-Progress
 
@@ -79,7 +78,7 @@ Below is a mix of work-in-progress and completed projects.
 - A personalized voice assistant buddy that has many features current voice assistants lack and can examine the environment it is in to make it feel like it's really there with you
 
 [**MoneyWise**](https://github.com/Maxim0101/moneywise)
-- An app that is dedicated to helping people to learn how to become financially independent and find a supporting community sith similar financial struggles
+- An app that is dedicated to helping people to learn how to become financially independent and find a supporting community with similar financial struggles
 
 [**NU App - Name TBD**](https://github.com/Maxim0101/nu-app-name-TBD)
 - An app that organizes club communication on campus, streamlines club processes, and makes it easier for students to filter and find the right club for them
@@ -88,7 +87,7 @@ Below is a mix of work-in-progress and completed projects.
 - I recreated the original Snake Game that I once played on an old Nokia phone in Russia
 
 [**SwarmScape Project**](https://github.com/Maxim0101/swarmscape-project)
-- SwarmScape is Northeastern University AI Club's project which is about creating an automated greenhouse that utilizes software, hardware, and AI
+- SwarmScape is Northeastern University AI Club's project, which is about creating an automated greenhouse that utilizes software, hardware, and AI
 
 ---
 
