@@ -77,12 +77,6 @@ Below is a mix of **some** of my work-in-progress and completed projects.
 [**MAI Voice Assistant**](https://github.com/Maxim0101/MAI-voice-assistant)
 - A personalized voice assistant buddy that has many features current voice assistants lack and can examine the environment it is in to make it feel like it's really there with you
 
-[**MoneyWise**](https://github.com/Maxim0101/moneywise)
-- An app that is dedicated to helping people to learn how to become financially independent and find a supporting community with similar financial struggles
-
-[**NU App - Name TBD**](https://github.com/Maxim0101/nu-app-name-TBD)
-- An app that organizes club communication on campus, streamlines club processes, and makes it easier for students to filter and find the right club for them
-
 [**Snake Game**](https://github.com/Maxim0101/snake-game)
 - I recreated the original Snake Game that I once played on an old Nokia phone in Russia
 
