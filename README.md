@@ -29,30 +29,6 @@ If you want to see more of my projects, you can find some of them on my Github p
 
 Along the way, I’ve gained hands-on experience across both software and hardware, using tools and IDEs like VS Code, Xcode, DataGrip, and Zsh, and languages like Python, Java, HTML/CSS, JavaScript, and MySQL. I have foundational skills in Mechanical Engineering, Hardware Engineering, Software Engineering, Robotics, and Machine Learning.
 
----
-
-## 🛠 Tech Stack
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-![ZSH](https://img.shields.io/badge/-ZSH-333333?style=flat&logo=gnu-bash)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)
-
-### 🧰 Tools & Platforms
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode&logoColor=007ACC)
-![Thonny](https://img.shields.io/badge/-Thonny-333333?style=flat&logo=thonny&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse&logoColor=white)
-![DataGrip](https://img.shields.io/badge/-DataGrip-333333?style=flat&logo=datagrip&logoColor=white)
-![DrRacket](https://img.shields.io/badge/-DrRacket-333333?style=flat&logoColor=white)
-
----
-
 ## 📚 Daily Learning/Practice Resources
 
 - [freeCodeCamp](https://www.freecodecamp.org/) – HTML, CSS, Machine Learning  
